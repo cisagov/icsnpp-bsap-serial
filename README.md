@@ -2,6 +2,10 @@
 
 Industrial Control Systems Network Protocol Parsers (ICSNPP) - BSAP over Serial.
 
+This repository and package has been replaced by new BSAP repository which combines the BSAP over IP and BSAP Serial parsers into one plugin:
+
+### [ICSNPP-BSAP](https://github.com/cisagov/icsnpp-bsap)
+
 ## Overview
 
 ICSNPP-BSAP-Serial is a Zeek plugin for parsing and logging fields within the BSAP (Bristol Standard Asynchronous Protocol) protocol for serial->Ethernet traffic.
